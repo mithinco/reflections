@@ -9,3 +9,6 @@ A working directory is the folder where the files you are working on but
 not every file may be part of the repository
 The stating area allows for better planning & organization of changes
 being made in the commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+Using the staging area will allow you to select which files to commit for each logical change
