@@ -12,3 +12,6 @@ being made in the commit
 
 How can you use the staging area to make sure you have one commit per logical change?
 Using the staging area will allow you to select which files to commit for each logical change
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help you visualize
